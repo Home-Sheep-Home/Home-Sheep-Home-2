@@ -1,0 +1,1 @@
+Force fields only stop sheep passing through.The space-crate won't be affected

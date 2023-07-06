@@ -1,0 +1,1362 @@
+/* 
+ Localizable.strings
+ HSH2
+ 
+ Created by Matt Aranha on 28/06/2011.
+ Copyright 2011 Mobile Pie. All rights reserved.
+ */
+
+//////////////// Episodes ////////////////
+
+"Episode0" = "Underground";
+"Episode1" = "London";
+"Episode2" = "Space";
+"Episode3" = "Bonus";
+"Episode4" = "Training";
+
+//////////////// Levels ////////////////
+
+// Underground
+"Level01" = "Shear We Go Again";
+"Level02" = "Going Underground";
+"Level03" = "Baaa'th Time";
+"Level04" = "Sheepshocked";
+"Level05" = "Timmy, To Ewe";
+"Level06" = "Mine-Blowing Madness";
+"Level07" = "Sheep Dip";
+"Level08" = "Raiders of the Lost Baaaa'rk";
+"Level09" = "Pulling the Plug";
+"Level10" = "Pump Action";
+"Level11" = "Turning Wool into Nylon";
+"Level12" = "What's Up Flock?";
+"Level13" = "So Shear and Yet so Baaa";
+"Level14" = "Shear Drop";
+"Level15" = "Home Sheep Home and Away";
+
+// London
+"Level16" = "Flocks Away!";
+"Level17" = "A-sheep at the Wheel";
+"Level18" = "Fleecey Rider";
+"Level19" = "Welcome to Laaamb-don";
+"Level20" = "Domin'ewes";
+"Level21" = "Baa'loonacy";
+"Level22" = "Raising the Baaa";
+"Level23" = "The Pit and the Pen-du-lamb";
+"Level24" = "Bleat the Clock";
+"Level25" = "Lowering the Baaa";
+"Level26" = "Chimney Sheep";
+"Level27" = "The Law of the Lamb";
+"Level28" = "Lamb-o-flage";
+"Level29" = "The Lion and the Lamb";
+"Level30" = "Bale Jumper";
+
+// Space
+"Level31" = "Close Encounters of the Herd Kind";
+"Level32" = "Dome Sheep Dome";
+"Level33" = "Beam Me Up, Shirley";
+"Level34" = "Star Sheep Enterprise";
+"Level35" = "Baaa Wars: A Ewe Hope";
+"Level36" = "Baaa Wars: The Empire Strikes Baaaa'ck";
+"Level37" = "Ewes The Force, Timmy";
+"Level38" = "Baaa Trek: Sheep Space Nine";
+"Level39" = "May The Force Be With Ewe";
+"Level40" = "Ewe-ston, We Have a Problem";
+"Level41" = "Baaa Trek: The Search for Flock";
+"Level42" = "Baaa Wars: Revenge of the Sheep";
+"Level43" = "Wool Cycle";
+"Level44" = "One Small Step for a Lamb...";
+"Level45" = "...One Giant Bleat for Lambkind";
+
+// Bonus
+"Level46" = "That Sinking Feeling";
+"Level47" = "Between a Rock and a Minecart";
+"Level48" = "Jean Claude Van Lamb";
+"Level49" = "Baahmy Football";
+"Level50" = "Shear Frustration";
+"Level51" = "Girder Herder";
+"Level52" = "The Pend-ewe-lamb";
+"Level53" = "Big Brother is Watching Ewe";
+"Level54" = "Do Sheep Dream of Electric Androids";
+"Level55" = "Baaa-barella";
+"Level56" = "Sheep Impact";
+"Level57" = "The Lamb in the Moon";
+"Level58" = "In Space, No One Can hear You Bleat";
+"Level59" = "The Fleece Element";
+"Level60" = "Spaaaaaace. We're in space";
+
+// Training
+"Level61" = "Graze School";
+"Level62" = "Further Ed-ewe-cation";
+"Level63" = "Ewe-niversity";
+"Level64" = "Credit Where Credit's Due";
+
+
+//////////////// Cheats ////////////////
+
+"HackT01" = "Lightning Finger";
+"HackT02" = "Dyed in the Wool";
+"HackT03" = "Run, don't walk";
+"HackT04" = "Invoke Anvil";
+"HackT05" = "Braised Lamb";
+"HackT06" = "Sheep Fighter II Turbo";
+"HackT07" = "Which Way is Up?";
+"HackT08" = "Explodey Finger";
+"HackT09" = "Super Sheep Fighter II Turbo";
+"HackT10" = "Spinach for Breakfast";
+"HackT11" = "Ninja Sheep";
+"HackT12" = "Springs for Legs";
+"HackT13" = "Walking on Air";
+"HackT14" = "Behind the Matrix";
+"HackT15" = "Divine Intervention";
+
+"HackD01" = "Sheep receive electric shocks when clicked";
+"HackD02" = "Sheep have coloured fleeces";
+"HackD03" = "Sheep can move much faster than normal";
+"HackD04" = "Click or drag to create anvils";
+"HackD05" = "Sheep are constantly smoking";
+"HackD06" = "Game runs at double speed";
+"HackD07" = "Click or hold the mouse to change gravity";
+"HackD08" = "Click to create explosions";
+"HackD09" = "Game runs at triple speed";
+"HackD10" = "Sheep are stronger when pushing things";
+"HackD11" = "Ninja sheep can wall-jump";
+"HackD12" = "Sheep can jump far higher";
+"HackD13" = "Sheep can magically jump in mid-air";
+"HackD14" = "See how it's all done with visible level geometry";
+"HackD15" = "Drag any movable items around with your mouse";
+
+"HackD01_Mobile" = "Sheep receive electric shocks when tapped";
+"HackD02_Mobile" = "Sheep have coloured fleeces";
+"HackD03_Mobile" = "Sheep can move much faster than normal";
+"HackD04_Mobile" = "Tap or drag to create anvils";
+"HackD05_Mobile" = "Sheep are constantly smoking";
+"HackD06_Mobile" = "Game runs at double speed";
+"HackD07_Mobile" = "Tap or drag to change gravity";
+"HackD08_Mobile" = "Tap to create explosions";
+"HackD09_Mobile" = "Game runs at triple speed";
+"HackD10_Mobile" = "Sheep are stronger when pushing things";
+"HackD11_Mobile" = "Ninja sheep can wall-jump";
+"HackD12_Mobile" = "Sheep can jump far higher";
+"HackD13_Mobile" = "Sheep can magically jump in mid-air";
+"HackD14_Mobile" = "See how it's all done with visible level geometry";
+"HackD15_Mobile" = "Drag any movable items around with your finger";
+
+//////////////// Achievements ////////////////
+
+"AchT01" = "A Misplaced Hoof";
+"AchD01" = "Complete Underground level 1";
+"AchI01" = "2204521537";
+
+"AchT02" = "Magnetic Miner";
+"AchD02" = "Complete Underground level 5";
+"AchI02" = "2269451582";
+
+"AchT03" = "Pump it up";
+"AchD03" = "Complete Underground level 10";
+"AchI03" = "2269442634";
+
+"AchT04" = "Down Under";
+"AchD04" = "Complete Underground level 15";
+"AchI04" = "2269404742";
+
+"AchT05" = "On the Road Again";
+"AchD05" = "Complete London level 1";
+"AchI05" = "2269419595";
+
+"AchT06" = "Rooftop Maestro";
+"AchD06" = "Complete London level 5";
+"AchI06" = "2269467364";
+
+"AchT07" = "Time to Leave";
+"AchD07" = "Complete London level 10";
+"AchI07" = "2269369985";
+
+"AchT08" = "Parking: Fine!";
+"AchD08" = "Complete London level 15";
+"AchI08" = "2269359885";
+
+"AchT09" = "Phone Home";
+"AchD09" = "Complete Space level 1";
+"AchI09" = "2269453779";
+
+"AchT10" = "Sheeptacular Drop";
+"AchD10" = "Complete Space level 5";
+"AchI10" = "2269500103";
+
+"AchT11" = "Field Genius";
+"AchD11" = "Complete Space level 10";
+"AchI11" = "2269422916";
+
+"AchT12" = "2011: A Sheep Oddessy";
+"AchD12" = "Complete Space level 15";
+"AchI12" = "2269460389";
+
+"AchT13" = "Baaa'sic training";
+"AchD13" = "Complete Graze School training";
+"AchI13" = "2269391620";
+
+"AchT14" = "A Levels";
+"AchD14" = "Complete Further Ed-ewe-cation training";
+"AchI14" = "2269523085";
+
+"AchT15" = "Ewe-niversity Graduate";
+"AchD15" = "Complete Ewe-niversity training";
+"AchI15" = "2269314957";
+
+"AchT16" = "Superbonus";
+"AchD16" = "Complete any one bonus level";
+"AchI16" = "2269471276";
+
+"AchT17" = "Supermegabonus";
+"AchD17" = "Complete any five bonus levels";
+"AchI17" = "2269474156";
+
+"AchT18" = "Supermegahyperbonus";
+"AchD18" = "Complete any ten bonus levels";
+"AchI18" = "2269401988";
+
+"AchT19" = "Superglobalmegahyperbonus";
+"AchD19" = "Complete all bonus levels";
+"AchI19" = "2269464631";
+
+"AchT20" = "Game Com-bleat";
+"AchD20" = "Complete all episodes";
+"AchI20" = "2269543012";
+
+"AchT21" = "Extra Credit";
+"AchD21" = "Find a giant cake to unlock developer commentary";
+"AchI21" = "2269741811";
+
+"AchT22" = "Roast Lamb";
+"AchD22" = "Toast Shaun on a rocket in the last space level";
+"AchI22" = "2269819126";
+
+"AchT23" = "Responsible Stowaways";
+"AchD23" = "Complete London level 1 with the luggage on board";
+"AchI23" = "2269694927";
+
+"AchT24" = "Motorway Menace";
+"AchD24" = "Smash 5 speed cameras in a row in London level 3";
+"AchI24" = "2269753766";
+
+"AchT25" = "Three Points";
+"AchD25" = "Get a photo of every sheep in London level 3";
+"AchI25" = "2269704701";
+
+"AchT26" = "Be Nice To The Neighbours";
+"AchD26" = "Complete London level 5 with all chimneys intact";
+"AchI26" = "2269830283";
+
+"AchT27" = "Where's My Parachute";
+"AchD27" = "Use just 2 'chutes to survive the mineshaft fall";
+"AchI27" = "2269748762";
+
+"AchT28" = "Scared of Loud Noises";
+"AchD28" = "Complete Underground level 4 without using any TNT";
+"AchI28" = "2269780985";
+
+"AchT29" = "Explosive Miser";
+"AchD29" = "Complete Underground level 6 with TNT to spare";
+"AchI29" = "2269832421";
+
+"AchT30" = "Teleportation Minimisation";
+"AchD30" = "Solve Space level 4 with only two teleport swaps";
+"AchI30" = "2269805613";
+
+"AchT31" = "Sheepswap Minimalism";
+"AchD31" = "Change sheep selection just once in Space level 14";
+"AchI31" = "2269768572";
+
+"AchT32" = "Teen Wolf in Sheep's Clothing";
+"AchD32" = "Surf the camper van home in London level 15";
+"AchI32" = "2269636931";
+
+"AchT33" = "Don't Disturb the Locals";
+"AchD33" = "Cross Big Ben's clockface without moving the hands";
+"AchI33" = "2269713955";
+
+"AchT34" = "Circus Act";
+"AchD34" = "Get all three sheep flying together using the chimney";
+"AchI34" = "2269832616";
+
+"AchT35" = "Hooves Can't Play Football";
+"AchD35" = "Don't touch the football in Space level 6";
+"AchI35" = "2269723673";
+
+"AchT36" = "Trot Sheep Trot";
+"AchD36" = "Complete any level with a three star rating";
+"AchI36" = "2269735907";
+
+"AchT37" = "Run Sheep Run";
+"AchD37" = "Complete five levels with three star ratings";
+"AchI37" = "2269869231";
+
+"AchT38" = "Gallop Sheep Gallop";
+"AchD38" = "Complete thirty levels with three star ratings";
+"AchI38" = "2269738920";
+
+"AchT39" = "Sprint Sheep Sprint";
+"AchD39" = "Complete all story levels with three star ratings";
+"AchI39" = "2269863306";
+
+"AchT40" = "Bolt Sheep Bolt";
+"AchD40" = "Beat the developers' time on any one level";
+"AchI40" = "2269773725";
+
+"AchT41" = "A Pair of Socks";
+"AchD41" = "Find two missing wooly socks";
+"AchI41" = "2269865342";
+
+"AchT42" = "A Sock For Every Hoof";
+"AchD42" = "Unlock the London episode by finding 12 socks";
+"AchI42" = "2269869362";
+
+"AchT43" = "Cosy Hooves";
+"AchD43" = "Unlock the Space episode by finding 24 cosy socks";
+"AchI43" = "2269828614";
+
+"AchT44" = "Too Many Socks";
+"AchD44" = "Find fifty socks, enough for any sheep";
+"AchI44" = "2269808727";
+
+"AchT45" = "Who Needs This Many Socks?";
+"AchD45" = "Find seventy five socks, a lifetime's supply";
+"AchI45" = "2269779985";
+
+"AchT46" = "Sock Quest Complete";
+"AchD46" = "Find every wooly sock in the game";
+"AchI46" = "2269898102";
+
+"AchT47" = "Sweet Hoof";
+"AchD47" = "Find a hidden cake to unlock a special bonus mode";
+"AchI47" = "2269852336";
+
+"AchT48" = "Need More Levels";
+"AchD48" = "Unlock a bonus level by finding a hidden joypad";
+"AchI48" = "2269773942";
+
+"AchT49" = "All Your Cake Are Belong To Us";
+"AchD49" = "Find every hidden cake to unlock all bonus modes";
+"AchI49" = "2269795758";
+
+"AchT50" = "Can't Get Enough Levels";
+"AchD50" = "Find every joypad to unlock all bonus levels";
+"AchI50" = "2269843442";
+
+"AchT51" = "Obsessive Collection Disorder";
+"AchD51" = "Collect everything possible from every level!";
+"AchI51" = "2269610757";
+
+"AchT52" = "Time for a break";
+"AchD52" = "Achieve every other achievement";
+"AchI52" = "2269803415";
+
+//////////////// More Achievements ////////////////
+//Not being used 
+"AchT53" = "Secret Pants";
+"AchD53" = "Find one secret pair of pants";
+"AchI53" = "2269561875";
+
+"AchT54" = "Super Secret Pants";
+"AchD54" = "Find every secret pair of pants";
+"AchI54" = "2269883640";
+
+"AchT55" = "A Sock For Every Hoof";
+"AchD55" = "Find twelve socks, one for each hoof!";
+"AchI55" = "2269871232";
+
+"AchT56" = "Sheepish Plug";
+"AchD56" = "Visit the sponsor's site, Steam or the iTunes store for even more sheepyness";
+"AchI56" = "";
+
+"AchT57" = "Leader of the Pack";
+"AchD57" = "Submit your score to the global leaderboard";
+"AchI57" = "";
+
+
+//////////////// Training Popup  ////////////////
+"Training61" = "Great job! You'll be a sheep expert in no time!";
+"Training62" = "Great job! You'll be a sheep expert in no time!";
+"Training63" = "Training complete! Now for the real challenges...";
+
+///////////////// General Popups /////////////////
+"Finish" = "Finish";
+"Retry" = "Try Again";
+"Levels" = "Levels";
+"Loading" = "Loading...";
+"Start" = "Start";
+"LCompleted" = "level complete";
+"LFailed" = "level failed";
+"NLevel" = "Next Level";
+
+"NotSavedBadFile" = "Not Saved: Invalid Level File";
+"NotSavedHackOn"  = "Not Saved: Hack Mode On";
+
+"ItemsFound" = "Items Found";
+"YourScore" = "Your Score";
+"YourTime" = "Your Time";
+
+"Slower" = "slower";
+"Quicker" = "quicker";
+
+"BeatDev" = "You beat the\ndeveloper's time!";
+"PlayBonus" = "Play Bonus Level";
+
+"StartGame" = "Start Game";
+"Score" = "Score";
+
+"SelectEpisode" = "select episode";
+"DevCom" = "developers commentary";
+
+"TrainingBlurb" = "Played before? Feel free to\nskip straight to the action";     // Split onto two lines (web/iPhone)
+"TrainingBlurbWide" = "Played before? Feel free to skip straight to the action";  // On a single line (desktop)
+
+"OutOf" = "out of";
+"FasterFor" = "faster for";
+"Sec" = "Sec";
+"Tip" = "Tip:";
+
+"Options" = "Options";
+"Save" = "Save";
+
+"WipeP" = "Wipe Progress";
+"Credits" = "Credits";
+"SE" = "Sound Effects";
+"DC" = "Developer Commentary";
+"Music" = "Music";
+"On" = "On";
+"Off" = "Off";
+
+"ComingSoon" = "Coming Soon";
+
+"BonusLevelsT" = "Bonus";
+"BonusLevelsB" = "Levels";
+"StoryLevelsT" = "Story";
+"StoryLevelsB" = "Levels";
+
+"TipGen00web" = "You can press 1, 2 and 3 to swap between sheep";
+"TipGen01web" = "Press R to reset a level and try again";
+"TipGen02web" = "The escape key quits the level so you can try a different one";
+
+"TipGen00" = "You can select sheep by tapping their bodies";
+"TipGen01" = "Touch the retry button to reset a level and try again";
+"TipGen02" = "The home button quits the level so you can try a different one";
+"TipGen03" = "Keep an eye out for hidden areas";
+"TipGen04" = "All sheep can jump over each other";
+"TipGen05" = "Sheep and other things can hold down domed buttons";
+"TipGen06" = "Buttons can be pressed by items as well as sheep";
+"TipGen07" = "Don't lose sheep off the screen, or you'll have to restart the level";
+"TipGen08" = "Get to higher places by stacking sheep up";
+"TipGen09" = "Shirley is best at pushing heavy things";
+"TipGen10" = "Shaun is amazing at jumping";
+"TipGen11" = "Timmy can fit through tiny gaps";
+"TipGen12" = "Hidden areas usually have visible holes hinting at their location";
+
+"TipUG00" = "Explosives can break weak objects";
+"TipUG01" = "Explosives can't hurt the sheep";
+"TipUG02" = "Magnets are really powerful!";
+"TipUG03" = "Some objects will float in water";
+"TipUG04" = "Shaun and Timmy can both swim well";
+"TipUG05" = "Shaun can leap very high from water";
+"TipUG06" = "Shirley can't swim. She'll just sink! She won't drown though";
+"TipUG07" = "Sheep conduct electricity! Don't worry, they don't mind a bit of a shock";
+"TipUG08" = "Sheep can fly high if they stand on exploding TNT";
+
+"TipLN00" = "Magnets are really powerful!";
+"TipLN01" = "It's a long way down from London's rooftops. Go careful not to fall";
+
+"TipSP00" = "Sheep can't pass through force fields, but inanimate objects can";
+"TipSP01" = "All kinds of objects can be teleported";
+"TipSP02" = "You can send most items through a portal, not just sheep";
+"TipSP03" = "Need to shoot something out of a portal fast? Make sure it falls in fast";
+"TipSP04" = "Reset a teleporter by moving all objects off it";
+"TipSP05" = "A teleporter can only deal with one object at a time. If the lamp flashes, it's overloaded";
+"TipSP06" = "Force fields often have an off-switch";
+"TipSP07" = "An amber lamp means a teleporter is ready to go. Load another teleporter to swap the items";
+"TipSP08" = "Some portal containers are fixed in place. Others can be pushed around";
+
+"TipDesktop01" = "Find tasty cakes to unlock special cheat modes";
+"TipDesktop02" = "Look out for joysticks to collect. They unlock bonus levels";
+
+"TipWeb01" = "Can you find all the lost secret pants?";
+"TipWeb02" = "Don't forget to submit your high scores";
+
+// Underground
+"TipLV01" = "Play the training levels if you don't know what you're doing!"; 
+"TipLV02" = "Keep an eye out for secret areas containing goodies";
+"TipLV03" = "Shirley can't swim, but these sheep don't drown in water";
+"TipLV04" = "Sheep are explosion-proof! Have a blast, you won't hurt them";
+
+// London
+"TipLV16" = "Can you help the farmer start his ageing van?";
+"TipLV17" = "Escape from the van, but don't get left behind";
+"TipLV28" = "The search beam will lock the door if you're spotted. Is there somewhere to hide?";
+"TipLV30" = "Traffic only moves on a green light";
+
+// Space
+"TipLV31" = "It's feeding time, but the farmer is watching telly. Maybe you can grab his attention somehow";
+"TipLV32" = "Abducted and imprisoned! It's time to make your escape.";
+"TipLV33" = "Teleporters SWAP two items";
+"TipLV37" = "Remember that objects can pass through force fields";
+"TipLV42" = "Remember that some portal containers can be moved";
+"TipLV44" = "Shaun will need a step up to jump between asteroids";
+"TipLV45" = "If you could start the rocket, maybe it could get you home";
+
+// Training
+"TipLV61web" = "Use arrow keys to control sheep";
+"TipLV61" = "Use the arrows at the bottom of the screen to control the sheep";
+"TipLV62" = "Sheep can use each other like steps to get to higher places";
+"TipLV63" = "Each sheep has its own unique strength. Keep them in mind while playing!";
+
+// Credits
+"TipLV64" = "Thanks for playing!";
+
+// Dev Commentary
+"DevA_CU" = "Chris Underwood";
+"DevJ_CU" = "Game designer/developer";
+"DevA_RD" = "Robin Davey";
+"DevJ_RD" = "Game designer/illustrator";
+"DevA_RiD" = "Richard Davey";
+"DevJ_RiD" = "Technical Director";
+"DevA_KMR" = "Katie McQuin Roberts";
+"DevJ_KMR" = "Community manager";
+"DevA_MA" = "Matt Aranha";
+"DevJ_MA" = "iPhone developer";
+"DevA_DC" = "Dave Callaghan";
+"DevJ_DC" = "QA tester";
+"DevA_VK" = "Valentin Kalchev";
+"DevJ_VK" = "QA tester";
+"DevA_GS" = "Gavin Strange";
+"DevJ_GS" = "Interface Designer";
+"DevA_DE" = "Dan Efergan";
+"DevJ_DE" = "Creative Director";
+
+// Dev Commentary
+"Dev01" = "We wanted to start Home Sheep Home 2 in a setting familiar to players of the previous game, but rapidly get into the new environments. This helps remind existing players how to play, or lets new players learn the basics. More importantly, it sets you up for a \"more of the same\" sequel, then immediately smashes this expectation by literally dropping you into a brand new environment with its own unique aesthetic and puzzles.";
+"Dev01a" = "This first level is a good example of how the 'hand drawn' aesthetic of Home Sheep Home has moved on since the first game. While the rural setting should be immediately familiar to fans of the original, the colours are stronger, the textures richer and more painterly, and the line work more nuanced.\n\nThere are reasons for these changes beyond simply wanting to improve on what came before. HSH1 was a free web game and hence all the graphics were vector based, created directly in Flash for speed and file size considerations. This time however our primary focus was on the mobile and desktop platforms, which can sustain much higher file sizes and generally have a higher graphical standard. \n\nMoreover, I sensed that the minimal 'ink and wash' look of the first game would prove inadequate in depicting the wide variety of different environments that the sequel would visit.\n\nThis freed me up to create essentially a unique digital painting for each level of the new game. If HSH1 was the sketchpad, HSH2 is the full colour storybook.";
+"Dev02" = "Through taking part in the forums on the ShauntheSheep.com website, it was clear to see that Shirley and Timmy were emerging as popular characters in the show, along with Shaun of course! It's great to see them taking a starring role in Home Sheep Home.";
+"Dev02a" = "While the new game's backgrounds were 'painted' in Photoshop, the various props and interactive items are still vector in origin. Although I'm pleased by how well they blend together, it does create a subtle visual distinction that tells the player which elements of a level should be the focus of their attentions.";
+"Dev03" = "The original Home Sheep Home has been played in over 50 countries worldwide! We'd like to say a special hello to our fans in China, Turkey and the United States, who are our top 3 button-bashing territories so far!";
+"Dev04" = "Originally this level had several crates of TNT in case you messed up with the first one. Playtesters often got confused about the purpose of the extra crates however, and lost focus on what they were meant to be doing. With just one crate, it's clear that only one sheep needs to be explosively launched to the exit.";
+"Dev05" = "My contribution to the original Home Sheep Home came quite late in it's development, with Chris already having designed and built all fifteen levels using placeholder graphics.\n\nBesides drawing and animating the three sheep, I had the task of interpreting the sometimes quite abstract geometry of Chris's designs in to more recognisable scenery. I formulated certain visual rules about the game world, for example that there should be no unsupported platforms, which are carried through in to the new game.\n\nFor the most part this approach worked well, but I was glad to be involved with the sequel from the beginning. Having some say in the layout of the levels made the job of 'skinning' them that much easier, especially in the London chapter where the backgrounds had to reflect real-world locations with a degree of accuracy.";
+"Dev06" = "Home Sheep Home's puzzles are intended to flow neatly from start to end. Originally the first crate of TNT started on the fuse, intended as an easy intro to a complex layout. In testing however, players encountered the lift first and used it to grab the second crate. Then they'd use up two crates launching a single sheep and get stuck. Once we moved the crate into the lift, this problem vanished completely. The puzzle just flowed better.";
+"Dev06a" = "During the play testing phase of Home Sheep Home 2 we realised how much people care about our little sheep! We had quite a few concerned responses regarding sheep conducting electricity, being blown up with dynamite and being submerged in water for too long without a snorkel. Don't worry, we can confirm no sheep were harmed in the creation of this game.";
+"Dev07" = "The physics engine for Home Sheep Home 2 is an old version of Box2D. It was the latest version when the original game was made, and we wanted to keep the character physics absolutely identical. Also why spend effort upgrading something that already works perfectly well? One downside is that Box2D doesn't support water in this version.\n\nReal buoyancy and fluid drag calculations are very tricky and computationally expensive, so we're using a much simplified approach. For each object we select a number of float-points. If a point is underwater, we push it upwards. Combined with plenty of damping when an object is submerged, it produces a pretty nice floating/sinking effect.";
+"Dev07a" = "Just as one of Chris's rules for game development is not to repeat gameplay, I strove not to repeat graphics. Though certain elements such as skies are repeated, as far as time would allow each level was created from scratch.\n\nThat boulder however, does make a second cameo appearance much later in the game. See if you can spot it!";
+"Dev08" = "The design for this level was originally a puzzle involving minecarts and explosives. The sheep would have to ride the cart up a steep hill by detonating TNT behind it. The concept didn't work at all. When the hill was shallow the sheep could walk up it without the cart. When it was steep, the explosion couldn't push the cart far enough, even with ridiculously strong TNT. The idea was scrapped altogether and we came up with this classic Indiana Jones parody to replace it.\n\nWe found ourselves discarding about 10% of our initial level ideas like this. It's painful to spend time building something, only to throw it away. But if it doesn't benefit the game, it doesn't belong and must go.";
+"Dev08a" = "Another aesthetic rule of HSH1 was no unnecessary detail. Levels should be readable and without visual distraction. This holds true of the sequel too. While there is generally more scenic detail in the new levels, it is there only to convey a sense of location.\n\nOne notable exception to this is the hidden rooms. These were introduced in the main as places to secrete collectables, but we also saw them as an opportunity to add a little extra visual humour. Hence, in many of them you'll find cheeky but affectionate tributes to classic films, other games, and perhaps even the odd ex-Prime Minister!\n\nBeing allowed the time for this kind of 'added value' stuff was a rare privilege for me, and one I greatly enjoyed.";
+"Dev09" = "Because the world of Home Sheep Home is so beautifully illustrated by Robin Davey, I knew I had my work cut out for me in terms of designing an interface. So rather than competing with Robin's work, I wanted the interface to compliment it.\n\nThe graphics are intentionally quite simple, being clean and crisp to help guide the player through the choices presented, helping them get through to playing the game as quickly as possible!\n\nEven though it's all nice and clean, the typography and shapes all have a bit of texture on them. The edges are a bit gnarled, so they still fit within the warm textured world of Home Sheep Home.";
+"Dev09a" = "The game's title screen has given me grief, I'm not going to lie. I'm writing this commentary because I need a break from trying to lay out the title screen nicely, so hopefully what you're seeing now is nice and neat, but I would like it to be known that it's given me a lot of brain ache!\n\nBeing a designer is a pretty awesome job, we get paid to make things pretty but every so often a problem comes up that is seemingly impossible to solve. How will I fit everything on-screen and make it look nice? The first port of call is pushing back and asking do I have to fit this on here? Generally all it takes is to step away from the design, have a cup of tea and to see things with fresh eyes and that's exactly what I'm going to do. Bye!";
+"Dev10" = "Trying to create a mobile version of Home Sheep Home 2 provided many technical and design challenges. With the limited screen space and lack of a physical keyboard we had to think carefully about the control system to adopt. We ended up prototyping a few options including one where tilting the device moved the sheep - although it was a nice idea, it was too tricky to control the sheep accurately enough.";
+"Dev10a" = "The first time anyone plays a new level, it has no background graphics and consists almost entirely of grey rectangles. Once it is tested and the layout finalised, I export the level geometry as a jpeg and effectively trace over it in Photoshop, adding detail and colour to create the finished artwork.\n\nIt is an interesting process, sometimes clarifying the solution to the puzzle and other times obfuscating it. This is a good example of a level where the graphics help unify a potentially confusing layout in to a comprehensible whole. Everything suddenly looks like it belongs and has a clear function.";
+"Dev11" = "Designing levels for Home Sheep Home 2 is a constant battle for screen space. The interface effectively removes a thick strip from the top and bottom of the screen, and the paper graphic removes a fairly generous border from all edges. By convention we have the sheep starting on the left and ending on the right, both of which take yet more space.\n\nAdditionally, level designs had to take into account the iPhone version. From the already small mobile screen we have to subtract room for extra large interface buttons, and movement controls too! It's a wonder there's any space left for puzzles after all that.";
+"Dev11a" = "To give us more space for puzzles, we considered having the level scroll around to follow the sheep. Our testing however has always found that players understand physics puzzles much better if they can see the entire level at once. As soon as they have to explore, they start missing essential elements. When they have to remember objects that are out of view, they can cope with much less complexity in the puzzles themselves.\n\nAnother problem with a scrolling camera in a physics game is that things can happen out of shot. Say an unstable stack of hay bales falls over and knocks a sheep down a well. If the player doesn't see it happen, they can't possibly understand why the level was suddenly over and will feel very cheated.";
+"Dev12" = "Although the cheat modes seem like just a bit of extra fun, many of them actually came about for serious reasons, which we discovered were actually quite good fun. Divine Intervention for example was dead handy for testing levels, whilst ones like Explodey Finger were good stepping stones towards getting a feature working. Others came about through things not quite working as they should. Walking on Air actually had it's origins in a YouTube video of the original game in which Shaun got stuck to a plank which enabled him to jump whilst in the air!";
+"Dev13" = "The tunnel here is a lie. As far as the physics engine is concerned, there is no tunnel. There's a sensor watching for Timmy attempting to run to the button, with the other two sheep in place. That triggers the breaking rope and the fall into the next level. If you were somehow able to press the button, it wouldn't do anything! There's no point building things that'll never be used.";
+"Dev14" = "At the design stage, we were sceptical about whether a level set mid-fall would really work. The earliest prototypes with scrolling walls showed clearly that it would be fun, however. The original design had to be simplified a fair bit because everyone panics when they perceive the peril of falling!";
+"Dev14a" = "Testing HSH2 has been a thoroughly enjoyable experience as the game is great fun to play, looks brilliant and is quite addictive! I have probably played each level over a few hundred times, mostly to improve my times as I became obsessed with finding the quickest routes through all the levels and setting developer times which I hope will be hard to beat. I managed to beat the previous developer time for one level on the Flash version by a whopping 22 seconds, and found a way to finish this level using only one parachute in around 10 seconds, this was one of my favourite tricks to pull off and get a really fast time.";
+"Dev15" = "If nothing else, this level exemplifies our commitment to even the most dubious joke. Sorry Australia!\n\nIn all seriousness though, it does demonstrate that it's not significantly more expensive, in terms of time and effort, for us to send our characters to Australia for a single level. That's one of the great advantages of this hand drawn style over say, CG or stop motion.";
+"Dev16" = "The narrative of the first Home Sheep Home, as far as there is one, is more or less contained in it's title: There are some sheep, and they're trying to get home. So in planning the sequel it was agreed by all that a stronger story element should be introduced, especially given the much grander scale of the project. It couldn't simply be 45 more levels of the same old thing.\n\nThe idea quickly emerged of creating discrete episodes, each set in a different location.  But how to initiate and ultimately resolve each episode?\n\nI was anxious to avoid spending valuable animation time on lengthy cutscenes that would bump up file size and risk boring the player. So instead we settled on a loose structure whereby each episode opens with an incident that the player themselves must trigger, knowingly or otherwise, and which whisks the sheep away on their adventure. Similarly, each concludes with the player triggering an event that will return the sheep home, however far away that may be. This way the story is in service to the game, and not the other way around.";
+"Dev16a" = "The episodic structure has other benefits too. It allows us to introduce a new set of game mechanics with each episode, preventing play from becoming repetitious, and to effectively reset the difficulty curve at the beginning of each one, rather than have it increase to the point of impenetrability. \n\nIt also allows for the possibility of new episodes if the game is a success. We already have a wealth of ideas to draw on should that happen. Fingers crossed!";
+"Dev17" = "We weren't at all sure that these levels set in moving traffic would work. There's lots of potential issues. Would the player understand what to do? Could the characters move as they normally do but feel like they're at speed on a road? Would there be enough gameplay potential in the basic platforms that cars/trucks form? In the end however, the levels turned out almost exactly as imagined at the ideas stage, and were great fun.";
+"Dev18" = "We were amazed by some of the videos uploaded to YouTube after the release of the original Home Sheep Home‚ ridiculously fast speed runs, the infamous flying sheep bug captured on film, reactions from frustrated players who had been playing the same level over and over and over...\n\nWe're really looking forward to seeing what people do with Home Sheep Home 2‚ there's plenty of opportunity and awards to be won for speed runs, but also lots of unlockable features to have some fun with. Anvil mode, anyone?";
+"Dev19" = "Once the theme of each episode was decided, Chris and I spent an intensive three days 'puzzle-boarding': Brainstorming level ideas and scribbling them down.\n\nNot having been involved in this stage of the previous game I was initially nervous about what I'd be able to contribute, but I soon got in to the puzzling mindset. I learned that good puzzles rarely spring fully-formed in to your head, instead they emerge from combining or obstructing the mechanics you have to hand.\n\nAdmittedly a large part of the sessions consisted of me saying 'What if...' and Chris patiently formulating my vague ideas in to workable levels. Still, by the end we had a rough plan for every level of the three chapters, about 90% of which survived in to the game you're playing. Many still bear an uncanny resemblance to those early scribbles.";
+"Dev19a" = "Robin is too humble about his contribution to the puzzle-boarding stage. You can't overestimate the value of having someone seriously clever to bounce ideas back and fourth with. It's the perfect way to avoid getting stuck, sanity check ideas, and ensure that they're feasible early on. There's no point me coming up with a level idea that can't be made to look good, and there's no point in Robin coming up with designs that can't be built technically.\n\nI've never really done level design so deliberately alongside someone else before, but it's something I'm going to try to repeat for future games.";
+"Dev20" = "The original Home Sheep Home was a short web game, built expressly to be given away free as a way of raising brand awareness for Shaun the Sheep. It became a huge hit with over 100 million plays worldwide.\n\nThe sequel (this game) was designed right from the start to be a profitable product. Since we were going to be asking people to spend their money on the game, we had to make it a much bigger experience. That doesn't just mean more levels, but more things to do. Achievements, things to collect, hidden stuff, bonus materials, hack modes, this commentary: All add value for the player.";
+"Dev20a" = "We were aiming for a minimum of 3 hours of gameplay, which luckily turned out to be roughly what the main three episodes take. We can't easily tell how long it takes to get to 100%, since nobody ever got anywhere near that even in our longest testing sessions!";
+"Dev21" = "The London levels were the first to be explored at the ideas stage. This is perhaps why they're closest to the original game's feel and gameplay. We wanted the levels in each episode to create more of a complete narrative of the sheeps' journey than the original game did.";
+"Dev21a" = "Having played the game on PC, iPhone, iPod and iPad, I encountered a few bugs along the way, one of my favourites being a bug where Shaun can jump an unlimited number of times when Timmy is on his back, a bug that I decided to call 'the flying glitch' because Shaun and Timmy would literally fly over all the obstacles in their way, although I definitely didn't use this to set my quick times!";
+"Dev21b" = "The original version of HSH2 was written in Flash, with all the animations created in a very Flash way; providing lots of pretty effects for little overhead. However, these tools weren't available to us on the mobile version so we had to develop some clever exporters to produce a series of animation frames. We then had to employ several clever tricks to package up the huge quantity of frames into something that would minimise file size and memory usage.";
+"Dev22" = "During development of this game, we had a surprise office visit from David Cameron; the United Kingdom's Prime Minister! We demo'd this level since it is set at the Houses of Parliament. Cameron pointed to the spot where this icon now lives, and said \"I have an office right there\".";
+"Dev23" = "This must be one of my favourite levels in the game, partly because it's visually distinct from every other level, and partly because it was my idea. I like how the pendulum is first an obstacle, then an asset, though it's a leap that lots of people seem to struggle with. In this case I am content for people to struggle.";
+"Dev24" = "Coming up with the benchmark times in order to earn the different star ratings turned into a serious competition. We created a big spreadsheet for all the people testing the game and used the averages as the basis for the par and brisk times whilst the developer's time was whoever was quickest. As development continued it became clear that the QA team were dominating the show - unsurprisingly with the amount of time they've put into testing each levels. We approximated that some of the guys must have played some levels at least a couple of hundred times!";
+"Dev25" = "We knew from the start that we wanted to create a proper desktop game. Traditionally the only way to do this in Flash was to use a hacked projector or 3rd party tool. But we were on the Adobe AIR pre-release and had early access to AIR3 and Flash Player 11. AIR3 finally allowed us to create a true stand-alone game with no external dependencies, and Flash Player 11 gave us the GPU support we needed to run the game at massively high resolutions. I spent days fiddling with batch files, certificates and obscure command-line parameters to get it working, but when the eureka moment hit and we finally merged the code with the main game it was a revelation. A Flash game running on a 1980x1200 display at full frame-rate with all the effects set to max. We nearly cried with joy.";
+"Dev26" = "We started the build with the original Home Sheep Home code. We picked some of the trickier new mechanics to add first, like gravity, teleporters and portals. This was in case something turned out to be technically infeasible, and an alternative would need to be dreamt up. Having early access to portals was handy in a few unexpected places however. For example, the chimney-cannon here is just a slightly modified one-way only portal, as far as the game engine is concerned.";
+"Dev27" = "This level was just a silly idea that worked. One of the things I'm most proud of about HSH2 is how funny it is to play or even just to watch.\n\nThe original game had a quiet sort of humour between the characters but it was mostly incidental to gameplay. Whereas so many of the new game's funniest moments (the sheep being electrocuted, exploded, fired out of chimneys, abducted by aliens, or bouncing of the bearskins of oblivious guardsmen) are essential to progress through the levels.\n\nQuite aside from enhancing the whole experience, it brings the game closer to the anarchic spirit of the TV show.";
+"Dev28" = "Originally there was going to be a palace guard patrolling in the foreground in this level. You would have to keep out of his sight with the trees or he'd spot you and the level would end. The connection between the guard seeing you and the abrupt level end was too hard to communicate to the player, even before we started building the level. The concept was modified to use a scanning laser. Because you can see exactly where it is looking, the rules for success are much clearer. Likewise, slamming a door is much better than an instant failure message.";
+"Dev28a" = "There was a bug in this level where the laser scanner didn't pause when a hint was shown, but the check on the beam touching a sheep was disabled. It meant you could use the hint button to glitch through the level faster than normal.\n\nTypically, if someone finds a clever way to solve a level fast, we leave it in there. The original Home Sheep Home speed runs were simply incredible to watch due to players finding some amazing exploits in the game. When the glitch includes using the game's UI however, it's really got to be fixed.";
+"Dev29" = "Initially this puzzle was meant to have three fountains. When a sheep jumped on a fountain, it would sink and the others would rise, letting the player control the water-platform heights. It turned out that Shirley needs the jump boost, and she's also the heaviest so the jets would be at the lowest height for her. We couldn't find a solution that felt right, even when faking the physics. The design was revised to the one you see here instead.";
+"Dev29a" = "At the alpha testing stage, the secret tunnels beneath the fountains were visible from the start of the level. Testers didn't always realise that the lion statue's mouth led to the underground area, even though they could see the tunnel leading up inside the statue. We added the lights to draw people's attention to the tunnels, and shone the lights from the statue's mouth to visually connect them up.";
+"Dev30" = "We sometimes use collectable items to help draw people's attention to areas they might otherwise miss. For example, the traffic light switch on the right. It's not immediately obvious that you can get there, but the presence of a collectable sock communicates that it's possible somehow. It helps lead you through the puzzles by giving you subgoals.";
+"Dev30a" = "While there's a great deal of artistic licence at play, many of the London levels make reference to real locations. You've already passed through the Houses of Parliament, Big Ben, and Buckingham Palace, and here you can see the National Gallery which dominates one side of Trafalgar Square.";
+"Dev31" = "This level caused us lots of trouble. The original concept was that the sheep were playing football in the field by the house, and one of them accidentally hits the satellite dish, signalling the aliens. Everyone who playtested it however just ended up confused. They didn't know what to do, why the aliens arrived and so on. We revised it over and over until we got to the design you're playing now, and it was one of the very last levels completed.";
+"Dev32" = "This scene in the aliens' ship serves a dual purpose. Firstly it moves the story on and shows the player they've been abducted and are on a spaceship. Secondly, it lets them experiment in a nice safe environment to discover that the rules haven't changed - gravity still works the same (at least for now), Shirley can still move heavy objects, the floors aren't suddenly super-slippery and so on.";
+"Dev32a" = "I struggled somewhat with how to depict the interior of the alien ship. In the show it's shown as not much more than an empty white void, not an ideal location for a platform game. In addition, the organic, rough n' ready aesthetic already established in the previous chapters hardly seemed suited to depicting sleekly futuristic environments.\n\nAfter a few false starts I settled on the slightly battered-looking metallic finish you see now. At first I had concerns about these levels feeling cold and monotonous when compared to the ones that proceed them, but details like the alien in his observation booth and the various weird and wonderful game mechanics you encounter I feel more than make up for that.";
+"Dev33" = "First serious bug... Teleport both Shaun and Shirley together and get 'Shauley' the ultimate sheep with two heads or rather two sprites on top of each other, able to fly, jump back through the teleporter and get stuck - amusing, and that was just the beginning. Loved the game from the first time we tested it until the very last - don't ask how many times we've tested it - now you are just being cheeky! Baaa...";
+"Dev34" = "We liked the idea of having some familiar sci-fi themes like teleporters, but altering them a little from the tired old concepts. Teleporters in Home Sheep Home 2 can only swap two items, so they're not much use for pure travel. Instead they work alongside natural filters that separate the sheep such as small gaps and tall jumps. The general pattern is that one sheep can make it through a section, then bring the others through while repeating the filter obstacle.";
+"Dev35" = "Initially, the second portal in this room was just leant against the wall. People didn't realise it could be pushed around by the sheep. Clamping it to the ceiling and releasing it with the button means that the player can't help but notice it falling. The way it settles back against the wall allows people to see it's not on rails, and can be moved freely anywhere the sheep can push it to.";
+"Dev36" = "Valve's masterpiece, Portal, inspired much more than the obvious momentum-preserving gateways in this game. Their approach of treating the entire game like a player-training exercise is perfect for creating something that remains fun for the player throughout. Challenges are fun for people, but \"challenge\" doesn't mean \"difficult\". We try not to repeat a gameplay mechanic more than a few times in total, and almost never have a puzzle with the same solution elsewhere. Jonathan Blow's excellent time-bending game Braid is the pinnacle of this minimal reuse technique.";
+"Dev37" = "The 'Wallace in carbonite' in this level's secret room is probably my favourite easter egg in the game. I do hope Aardman aren't litigious!";
+"Dev38" = "One of the big mistakes we made with the original Home Sheep Home was the way it delivered hints to the player. Each time the player restarted a level, a new hint was shown. The more the player failed to pass the level, the more verbose the hints got until they were practically describing the solution. Players didn't always want hints at that rate though, and said they'd rather work it out for themselves until they got stuck. The other problem was that if a player missed a hint, they could never get back to it, or even realise they'd missed it. The players were right, and we've tried to address these flaws in Home Sheep Home 2.";
+"Dev38a" = "We fought A LOT about what number should should be pressed to change between sheep. Many hours were spent debating over whether to keep them the same as the original game (Shirley 1, Shaun 2, Timmy 3) or whether it made sense to put them in order of size, Timmy being 1 because he is smallest!\n\nIn the end we couldn't decide, so it's up to you to choose your preference in the game's option screen!";
+"Dev39" = "The online success of Home Sheep Home was, I think it's fair to say, something of a surprise to everyone. It was a relatively small project, and while we had an inkling we'd made something quite special, we certainly weren't prepared for the reception it got. I remember celebrating when it hit a million plays. At the time of writing it's just passed one hundred million. \n\nSo the prospect of following it up, especially with a paid game, was for me a daunting one. Could we do the same trick again, only better? Obviously development of the sequel represents a significant financial investment on the part of Aardman, so it's to the credit of the team there that they were able to foster an unpressurised environment where I always felt trusted to do good work. Together I believe we've come up with a more than worthy successor. Time will tell.";
+"Dev40" = "This level basically exists to give you plenty of chances to zap a sheep against a force field. It turned out to be a pretty tricky puzzle too. Whilst it borders on 'too hard', it's a very satisfying moment for the player when they eventually solve it.";
+"Dev41" = "There's a lot of puzzle in a small space here. The basic idea of four rooms worked almost straight away, but there were lots of ways to get stuck that weren't really the player's fault. It took hundreds of small tweaks to make everything work smoothly, and fit into the space.";
+"Dev42" = "Creating portals in a 3D environment looks really tricky to me. In a 2D environment however they're pretty simple. For a start, you can't see through them and create recursive views!\n\nIn Home Sheep Home 2, we cheat even more. You are immediately moved from one portal to the other. You can't be half in and half out, split between two places at once. If something enters a portal too slowly, it is given an artificial boost to make sure it clears of it on exit and doesn't immediately re-teleport.";
+"Dev42a" = "We initially tried translating an object's velocity on entering a portal to the exit portal, so if you shot in at an angle you'd fly out at an angle. That's a logically accurate approach. Unfortunately it made portalling a bit of a lucky dip and demanded a lot of accuracy from the player. It turned out that shooting objects straight from the exit was much more forgiving, so we do that instead.";
+"Dev43" = "If you took this level and unrolled it, it would be a pretty simple puzzle. At this late stage in the game almost any player would waltz through it without thinking. The act of curling it up on itself increases the complexity lots though. People just aren't used to processing things upside down, inside out and spinning around!";
+"Dev44" = "Strange gravity fields were high on the priority list for Home Sheep Home 2's space levels. Just when you think you've seen it all, bosh, you're trying to control sheep upside down, back to front and all sorts. We only had to make a minor change to Box2D's internal code to support different gravity per object, and fun stuff just fell out. Sheep in orbit is one of those magical things that's just inherently fun. The puzzle on this level has a few issues, but we all enjoyed flying around madly through space enough that it was still worth including.";
+"Dev44a" = "The pastoral scenes of HSH1 were informed, at least in part, by E. H. Shepard's classic illustrations for A. A. Milne's 'Winnie the Pooh' stories, but in seeking reference for the sequel's many new settings I had to cast my net wider.\n\nI found fresh inspiration in the fantastical world of Bill Watterson's 'Calvin and Hobbes', and the anarchically brilliant 'Krazy Kat' comics that George Herriman produced in the 1920s. Tove Jansson's 'Moomin' books, Antoine de Saint-Exupery's 'Little Prince', and the amazing work of Ronald Searle also deserve a mention.";
+"Dev45" = "The last level of the game was the first one built, curiously. We wanted to include several levels with unusual gravity, and this was a pretty big change to the original game engine with its fixed-rotation sheep. Each object can compute its own local gravity, and uses that to find its own local concept of \"up\" and \"right\". The sheep movement code computes all forces and velocity tests (like walking, jumping, falling) against these vectors.";
+"Dev45a" = "Ironically given that this is the last level of the game, it was actually the first to receive completed graphics. Or so I thought.\n\nDuring the long process of skinning every level by hand the visual style evolved sufficiently that this one began to look out of place, at least to Chris and I. So towards the end of the project I completely redrew it, and made the asteroid's originally visible interior a hidden room in the process.\n\nPlaying through the game now I see plenty I'd change given the time and energy. It's lucky there are people employed to tell me when to stop, or I'd go round and round like I was painting the Forth Bridge.";
+"Dev46" = "Some of the bonus levels (such as this one) are altered versions of a main game puzzle. These mainly came from discovering a funky alternative way to complete a level, then removing elements until you are forced to use it. Typically the new method works in the main game too, and we don't mind that. Unless an alternative solution makes a level much simpler, we generally leave it in there for the smart player to figure out.";
+"Dev50" = "Some bonus levels (such as this one) are trickier versions of the main game puzzle. Usually these were created first, and then modified after testing because too many people got stuck. The original puzzle in some cases was still satisfying for a more advanced player to solve, so we've included them as bonuses where possible.";
+"Dev52" = "The original Home Sheep Home was built from one giant Flash file. This worked OK until sounds were added. Compilation time increased dramatically. Development was nearly over at this point however, and build times didn't matter much.\n\nFor the sequel, we had to compile faster. We moved to Flex with FlashDevelop and over time, different parts of the game were split off into their own separate FLA files. First the sounds, then the sheep. Levels and backgrounds were split off next, keeping build times manageable.\n\nEventually, Home Sheep Home 2 consisted of 10 FlashDevelop projects, over 40 FLA files and over 250 ActionScript classes!";
+"Dev54" = "Even with all the fancy technology we have these days, I still find it easiest to keep notes on paper. From sketching out level ideas to lists of things not to forget to do, nothing beats the ease of use and versatility of a notepad.\n\nMy working scribbles for Home Sheep Home 2 emptied two new pens of ink and entirely filled three notepads!";
+"Dev55" = "For months during development we were using very early Adobe builds of AIR3 and Flash Player 11. This was beta software to the core, but absolutely vital to the success of the desktop game. It was the only way we could let the players experience the graphics at their full glorious high resolution. But when you code on the bleeding-edge sometimes you get cut. Adobe constantly changed the Flash Player as they neared on a final 11 release, and with each new build we'd cross our fingers and re-test the game. When they released the final version of both AIR3 and FP11 at Adobe Max 2011 we put them into the game, compiled, waited 15 minutes, sweated a bit and then tested. And it was flawless. Finally we could make true desktop PC games in Flash with no compromises. The gaming world was our oyster!";
+"Dev56" = "The original Flash game on which this is based clocked up an amazing 102 million plays on the web in just 18 months. It was an entirely viral game. We didn't work with anyone to seed it, it wasn't sponsored and it carried minimum advertising. And the world seemed to lap it up! At it's peak we were seeing over 900,000 people a day play it. Obviously it was the success of this that lead to the creation of the sequel you have in front of you. But it's very rare for a Flash game to get this many plays. Only a handful achieve anything close to these numbers. I worked out that if everyone who played the game did so for a modest 5 minutes, then collectively the human race has spent a staggering 951 years playing Home Sheep Home.";
+"Dev57" = "Some bonus levels (this one, for example) are leftover ideas from the main game. This puzzle for example was created early on in the process, and worked well. It's pretty similar to several other teleport puzzles though, and not very involved. There were other stronger ideas for the main game, so this got relegated to the bonus material.";
+"Dev58" = "A few bonus levels (this one included) were ideas that we didn't come up with until the majority of the main game was built. We still wanted to include them though, as they're good fun and add value to the overall offering.";
+"Dev59" = "We hardly ever do puzzles in Home Sheep Home with strong time pressures. They're fun for some people, but others just find them stressful (myself included).\n\nI was very careful when coding the original game however to make sure the score timer was entirely fair. If a level can be solved in 10.5 seconds on a fast computer, it can be solved in 10.5 seconds of game-time on a slow computer too. The game clock actually runs slower to compensate if your CPU can't quite keep pace. There's absolutely no element of randomness that affects your level time either.";
+"Dev59a" = "The perfectly fair timer in the original Home Sheep Home led to a wonderful sub-community of people speed running the game to see just how fast they could go. Speed runs of any game are usually worth watching (especially if you've played the game yourself), but the best of the Home Sheep Home runs were simply incredible. Some of the tricks employed are almost beyond belief.\n\nHere's hoping the sequel gets the same level of speed run attention from the fans!";
+"Dev61" = "The training levels were initially only added as a testing tool. We wanted to start some test subjects on the second and third episodes, without them having played the earlier ones. This is a big ask, since they're both harder and assume you've beaten the levels that go before. Adding a few basic core skills levels meant testers could play them first, and leapfrog into the game at any starting point.\n\nWhen we decided to keep the training levels it meant we didn't have to spend half of the first episode teaching people how to play. Also, people familiar with the original game could just jump straight into the action without wading through tutorials about things they already know. Everyone wins!";
+"Dev62" = "The training levels only focus on the game's core skills: Movement and selecting sheep, different jump heights for each sheep, stacking sheep, the two types of buttons and manipulating objects.\n\nAll other mechanics are taught in the game as they come up. For example you learn about lifts, dynamite and water in the early underground levels. Teleporters, portals and force fields in early space levels.";
+"Dev64" = "We wanted to put a bit more love into the credits screen than we usually do. Often, credits get forgotten altogether as tight deadlines approach.\n\nWe hit upon the idea of being able to play through the credits, then developed that into the concept of a slideshow in the barn that you see here. We hope it'll be a bit more engaging than a plain screen with names rolling across it endlessly.\n\nThe credits level also solved another issue - how to tell people about the developer's commentary that they've just earned.";
+
+/* Hints */
+
+// Level 1
+"h3" = "A strong sheep\ncould push this";
+"h4" = "A small sheep\ncould fit\nthrough here";
+"h5" = "Shaun can jump\nup here\non his own";
+"h6" = "Shirley needs to use\nanother sheep\nas a step\nto get up here";
+"h7" = "Place Shaun\nhere to help\nShirley climb up";
+
+// Level 2
+"h8" = "Find out what this button does";
+"h9" = "Hold down this button to call the lift";
+"h10" = "Release the button and the lift will rise";
+"h11" = "Call the lift for each sheep\nand lift them up to the exit";
+"h12" = "The last sheep will have\nto make a run for it!";
+"h14" = "Leave Shaun until last. He's\nfaster than the others";
+
+// Level 3
+"h15" = "How is Shirley going to cross the water?\nShe can't swim...";
+"h16" = "Maybe Shirley could use this boat";
+"h17" = "How to get the boat to Shirley?";
+"h18" = "Have you tried these buttons?";
+"h19" = "Shaun jumps really high from water.\nHe can reach this button by himself";
+"h20" = "Timmy will need Shaun's help\nto get to this button";
+"h21" = "Use the buttons and magnets\nto get the boat to here";
+"h22" = "Get Shirley into the boat, then\nmove her across to the right";
+
+// Level 4
+"h23" = "Think about how each sheep\nis going to get to the exit";
+"h24" = "Shaun can climb up here, but will need\nanother sheep's help for the first step";
+"h25" = "Timmy is small enough to get\nthrough these tunnels";
+"h26" = "Shirley will need another route.\nWhat could launch her fast?";
+"h27" = "What does this\nplunger do?";
+"h28" = "What could set off the explosives?";
+"h29" = "Try placing\nthe TNT here";
+"h30" = "Jump on the plunger to start a spark.\nIf it hits TNT, it'll explode!";
+"h31" = "Stand Shirley on top of the TNT here.\nStart a spark and swap control to Shirley";
+
+// Level 5
+"h32" = "Timmy needs a boost to get here";
+"h33" = "Use Shaun or Shirley as a step\nto get Timmy up here";
+"h34" = "Find out what these buttons do";
+"h35" = "Timmy can squeeze through the tunnel,\nbut how are the bigger sheep going to cross?";
+"h36" = "Could Shaun and Shirley\nride in the mine cart?";
+"h37" = "Use the magnet to bring the mine cart\nup here, and jump a sheep in";
+"h38" = "Send the sheep across to the other side\nby putting Timmy on this button";
+"h39" = "Jump out of the cart to help Timmy\nget back to the first button";
+"h40" = "Repeat as necessary\nfor the final sheep!";
+
+// Level 6
+"h41" = "Think ahead! You've got three sheep\nand three bundles of explosives";
+"h42" = "None of the sheep\ncan jump up here\nby themselves.\nIt's just too high";
+"h43" = "Kaboom! One explosion per sheep.\nBut which one first?";
+"h44" = "Timmy isn't much use pushing things\nso try sending him first";
+"h45" = "Get just one pack of TNT ready\nat a time. Don't waste any!";
+"h46" = "Use this bundle of TNT after\nthe first to launch Shirley";
+"h47" = "Finally push this one down for\nthe remaining sheep to use";
+
+// Level 7
+"h48" = "Who's going to cause the most\ntrouble here? Who can't swim?";
+"h49" = "Shirley is going to sink straight\nto the bottom. How can she get out?";
+"h50" = "These steps could help, but\nthe bottom ones are missing";
+"h51" = "Maybe this rock could replace the\nmissing steps. Who could get here?";
+"h52" = "Shaun can jump really high from water";
+"h53" = "Get Shaun to push the\nrock into the water";
+"h54" = "Get Shirley to push the\nrock over to the steps";
+"h55" = "Shirley can use the rock to\nclimb out of the water";
+
+// Level 8
+"h56" = "Stuck? Have you spotted this button?";
+"h57" = "Someone small will need to hold down\nthis button to keep the door open";
+"h58" = "This button hides a terrible surprise.\nOnce pressed, you'll need to be quick!";
+"h59" = "Shaun can get up here,\nwith a little help from Shirley";
+"h60" = "Don't hang around once you've pressed\nthe button. Race Shaun to the exit";
+"h61" = "Once Shaun is safe, don't pause!\nTimmy still needs to beat the boulder";
+"h62" = "This jump isn't as hard as it looks.\nJust don't panic!";
+"h63" = "It can help to move Shirley out of\nthe way before pressing the button!";
+
+// Level 9
+"h65" = "Uh oh. More water. How is\nShirley going to cross this time?";
+"h66" = "It's not a very wide stretch of water.\nCould she use the other sheep like stepping stones?";
+"h68" = "Now it's Shaun and Timmy causing trouble.\nThey can't sink to the exit!";
+"h69" = "What if you drained the water?";
+"h70" = "You'll need something heavy\non this counterbalance";
+"h71" = "Keep adding weight!\nEvery ounce of wool counts";
+"h72" = "Put all three sheep on this plug,\nwith Shirley at the bottom";
+"h73" = "Once the water has drained\njust move the the exit";
+
+// Level 10
+"h74" = "How can the sheep\n get up so high?";
+"h75" = "If you could raise the water level\nShaun and Timmy could just swim out";
+"h76" = "What does this crank and\npiston do if you push it?";
+"h77" = "Don't leave Shirley behind!\nShe'll need to ride something that floats";
+"h78" = "Put the barrel in the water\nand sit Shirley on it";
+"h79" = "Shaun can use floating Shirley\nas a step if he's quick";
+"h80" = "Get Shaun to push the\npiston in and out";
+"h81" = "Make sure nobody is left under here\nwhen the water level rises!";
+
+// Level 11
+"h82" = "Those rocks look too heavy\nfor the sheep to move";
+"h83" = "These supports look unstable";
+"h84" = "You could try\nblowing up the supports!";
+"h85" = "There's a gap in the fuse.\nWould anything bridge it?";
+"h86" = "What happens to the sheep\nif a spark touches them?";
+"h87" = "These sheep conduct electricity!\nFix the fuse with Shirley's body\n(don't try this at home)";
+"h88" = "With Shirley and the TNT in place,\nstart a spark and wait for the fireworks!";
+"h89" = "Use the button to send the lift\ndown for the remaining sheep";
+
+// Level 12
+"h90" = "What does this button do?";
+"h91" = "Holding this button down\nwill open the exit door";
+"h92" = "One of the sheep can get up here";
+"h93" = "Shaun can push\nthis mine cart";
+"h94" = "What could hold the\ndoor button down?";
+"h95" = "If you could fill this chute with carrots\nthey might hold down the button";
+"h96" = "Filling this chute\nwon't help, mind";
+"h97" = "You'll need lots of carrots.\nCollect them up in the cart";
+"h98" = "Get Shaun to push the cart under each carrot\nwhile Timmy pops them in from above";
+"h99" = "Push the cart over the edge\nThe carrots will fall into the chute";
+
+// Level 13
+"h100" = "Nearly home! But how to\nget everyone up there?";
+"h101" = "That button looks like it could help.\nMaybe you can ride down on the bucket";
+"h102" = "Shaun can help Timmy get up here";
+"h103" = "The well's windlass is\njammed with this stick";
+"h104" = "Bash the stick with Timmy\nto free the well bucket";
+"h105" = "The bucket can move once the stick is broken.\nAdd lots of weight to lower it";
+"h106" = "Put the sheep on the bucket, and go\nfor the button with Timmy";
+
+// Level 14
+"h107" = "AAaaaAaaAAAAAAaAA!\nSave the sheep!";
+"h108" = "Stay calm and catch your breath.\nIs there anything here that could help?";
+"h109" = "The backpacks contain parachutes,\nand there are three of them...";
+"h110" = "Shaun seems to jump further than normal\nbecause everything is falling together";
+"h111" = "Don't let the sheep fall down\nwithout a parachute";
+"h112" = "Shaun can jump over here if he\nuses the bucket as a mid-flight step";
+"h113" = "One of the sheep\ngets a parachute\njust by waiting here";
+"h114" = "The last sheep will have to jump\nfor their chute. Be brave!";
+"h115" = "Keep cool, and don't panic.\nYou'll be fine!";
+
+// Level 15
+"h116" = "Where on earth have you emerged?\nLet's find a way home";
+"h117" = "How about stowing away\non that plane?";
+"h118" = "The loading lift seems to\nautomatically scan for allowed cargo";
+"h120" = "The scanner doesn't seem to\nlet livestock on board";
+"h121" = "How could you disguise\nthe sheep as cargo?";
+"h122" = "Maybe they could hide in the boxes";
+"h123" = "Put each sheep in the\nappropriate sized box";
+"h124" = "Walk each boxed sheep\nonto the cargo lift";
+
+// Level 16
+"h125" = "The farmer's van doesn't sound well.\nPerhaps it could be bump-started?";
+"h126" = "That jack doesn't look very stable.\nCould it be overbalanced?";
+"h127" = "The weight of the sheep might break the jack,\nbut how to get inside the van?";
+"h128" = "Use one of the sheep to\nknock the suitcase out of the way";
+"h129" = "Let the tailgate open and\nclimb all three sheep inside";
+
+// Level 17
+"h130" = "This journey is taking forever!\nLet's go for an adventure...";
+"h131" = "All the sheep can jump onto\nthis car bonnet. Watch your timing!";
+"h132" = "Be careful not to drop onto the road\nor you might be left behind!";
+"h133" = "Move the sheep onto this lorry";
+"h134" = "You can jump onto the tailgate,\nbut it will collapse quickly";
+"h135" = "Timmy might need to use another sheep\nas a step to help make this jump";
+
+// Level 18
+"h136" = "How exciting!\nBe careful up here...";
+"h137" = "Get all the sheep\nonto the roof of this bus";
+"h138" = "Timmy can duck under those\npesky speed cameras";
+"h139" = "Shirley has her own way of\ndealing with the cameras!";
+"h140" = "Shaun can jump over the speed cameras.\nYou'll need to jump at the right moment.";
+"h141" = "Struggling to get Shaun across?\nThere is a safer way...";
+"h142" = "Position Shirley here and\nuse her as a shield for Shaun";
+
+// Level 19
+"h143" = "The bus has stopped.\nQuick! Time to get off";
+"h144" = "These chimneys are old and crumbling.\nA strong sheep could push them over";
+"h145" = "Shaun could jump out of here\nwith just a little bit of a step-up";
+"h146" = "Use Shirley to push the chimneys over\nand put the rubble into this gap";
+"h147" = "Put Shaun on the rubble and\nthe other sheep can use him as a step";
+
+// Level 20
+"h148" = "These rickety old chimneys look\ntricky to climb. Is there a safer way?";
+"h149" = "Maybe Shirley could\nknock them over?";
+"h150" = "Let the chimneys fall like dominoes\nthen climb the wreckage!";
+"h151" = "If you want a challenge, try finishing this\nlevel without knocking down any chimneys!";
+
+// Level 21
+"h152" = "Look! The Houses of Parliament!\nHow to get over there?";
+"h153" = "The lighter sheep can\nbounce on those balloons";
+"h154" = "The balloons won't take Shirley\nlanding on them though";
+"h155" = "You can get Shaun up here\nwith Timmy's help";
+"h156" = "Get Shaun to push this\nscaffolding over";
+"h157" = "Cross back over with Shaun\nand help Shirley across";
+
+// Level 22
+"h158" = "What does this button do?";
+"h159" = "If Timmy holds the button,\nShaun and Shirley can get on the crane";
+"h160" = "Shaun can get up here if he\nuses Shirley as a step";
+"h161" = "What does this\nbutton do?";
+"h162" = "Get Shaun to send the\ncrane back down for Timmy";
+
+// Level 23
+"h163" = "That's a very heavy pendulum.\nHow to get all the sheep past?";
+"h164" = "Shirley and Shaun are\ntoo big to fit under it.";
+"h165" = "What does this\nbutton do?";
+"h166" = "Hop on and off the button in time and\nthe magnet will swing the pendulum really high";
+"h167" = "Stand roughly here, and use the pendulum\nto boost yourself up onto the next ledge";
+
+// Level 24
+"h168" = "Be careful, it's\na long way down!";
+"h169" = "Get Shaun to find out\nwhat these buttons do";
+"h170" = "This button opens\nthe exit door";
+"h171" = "Move the hands to make\nplatforms for the sheep";
+"h172" = "You can change the time with a sheep\non the hands. Be careful not to push them off!";
+"h173" = "The hub in the centre of the clock face\nis safest, if you're moving the hands";
+"h174" = "Try setting the time to 1:40\nto get from the start to the exit";
+"h175" = "Try setting the time to 2:20\nto get from the time controls to the exit";
+
+// Level 25
+"h176" = "Find out what this\nbutton does";
+"h177" = "Use the button to control the hoist.\nThat should get Shaun and Shirley to safety";
+"h178" = "Just Timmy left to get across.\nHow can he ride the crane?";
+"h179" = "Could the\nbreeze block\nbe of use?";
+"h180" = "Put the block on the crane and\nlift it back to Timmy";
+"h181" = "Timmy can use the block\nto hold the crane button down";
+
+// Level 26
+"h182" = "The exit is through that window.\nPuzzling!";
+"h183" = "Have you tried Santa's\nfavourite technique?";
+"h184" = "This rickety old flue\ncan be bent by strong sheep";
+"h185" = "Aim the flue at the window\nand leap into the chimney";
+"h186" = "Not hitting the window?\nAdjust your aim...";
+"h187" = "Not breaking the window?\nUse something heavier!";
+"h188" = "Launch Shirley at the window first.\nShe's heavy enough to break it";
+
+// Level 27
+"h190" = "Palace guards! Don't fall\nor you'll be caught!";
+"h191" = "What could you use to cross?";
+"h192" = "Jump onto a guard's hat\nto ride across to the other side";
+"h193" = "But make sure you jump over the\nother guard's headgear!";
+
+// Level 28
+"h194" = "Security is tight at\nBuckingham Palace";
+"h195" = "If the scanner detects a sheep,\nit'll lock the door and you'll need to\npress the reset button";
+"h196" = "You'll need to fool the scanner.\nHow can you hide from it?";
+"h197" = "You can hide from the scanner\nbeam behind the bushes";
+"h198" = "Time your run between bushes\nwhen the scanner isn't looking";
+"h199" = "How are Shaun and Shirley\ngoing to hide in this bush?";
+"h200" = "You'll need to form an\nupside down sheep-stack!";
+"h201" = "First stack Shirley, Shaun\nand Timmy here, in that order";
+"h202" = "Move the sheep one at a time.\nFirst Timmy, then Shaun, then Shirley";
+
+// Level 29
+"h203" = "Trafalgar Square's fountains\nappear to be out of order.\nCan you restart them?";
+"h204" = "Have you tried this button?";
+"h205" = "How could you get to this button?";
+"h206" = "Look at the tunnel. It's got to be\nsomething to do with the lion statue";
+"h207" = "Maybe there's a secret tunnel!\nSend Timmy to investigate";
+"h208" = "Get Timmy to jump into the Lion's mouth.\nHe'll come out under the fountain";
+"h209" = "The water jets can\nlift the sheep!";
+"h210" = "Wait for the fountains\nto  spray high and ride the jet!";
+
+// Level 30
+"h211" = "Uh oh. The farmer's van is being towed\naway for parking offences!";
+"h212" = "How can you stop the\nvan being towed?";
+"h213" = "What does this\nbutton do?";
+"h214" = "This button advances the traffic lights.\nCars go on green, remember?";
+"h215" = "Lift the van with the magnet,\nthen set the lights to green";
+"h216" = "Now you need to hitch a ride home.\nHow can you stop the van driving off?";
+"h217" = "Set the traffic lights to red\nbefore dropping the van.";
+"h218" = "Leave a sheep on the lights button\nwhile the other two climb in the back";
+"h219" = "Finally set the lights back to green\nand quickly jump onto the van roof!";
+
+// Level 31
+"h220" = "It's feeding time, but\nthe farmer is distracted.\nHow can you get his attention?";
+"h221" = "The farmer is watching TV.\nPerhaps you could\ninterfere with the signal.";
+"h222" = "Bash the satellite dish\nto disrupt the TV signal";
+"h223" = "Use the trampoline to\nescape from the barn";
+"h224" = "Stack the sheep\nto reach the\nsatellite dish";
+
+// Level 32
+"h225" = "Captured by aliens! Whatever next.\nTurn your thoughts to escaping";
+"h226" = "These bell-jars don't\nhave any bottoms";
+"h227" = "The jars are too heavy for Timmy to push,\nbut Shirley and Shaun can move them";
+"h228" = "Use Shirley to push Timmy's\nbell-jar over the hole";
+"h229" = "Shirley and Shaun can escape down this hole,\nbut how to get past the door?";
+"h230" = "Get Timmy to hold this button while\nthe other sheep get through the door";
+
+// Level 33
+"h231" = "That button turns off the force fields,\nbut how are you going to get to it?";
+"h232" = "Force fields only stop sheep passing through.\nThe space-crate won't be affected";
+"h233" = "Load up both teleporter pads with an\nitem or sheep and they'll swap places";
+"h234" = "Have you sent the wrong sheep?\nNo problem. To reset a teleporter,\nmove everything off it first";
+"h235" = "Send Timmy through the teleporter, because\nhe can come back down the small gap";
+"h236" = "Push the box through the force\nfield and onto the switch";
+
+// Level 34
+"h238" = "Think about what each sheep\ncan accomplish here";
+"h239" = "Timmy can fit\nthrough this gap";
+"h240" = "Shaun can climb\nthese stairs";
+"h241" = "If a sheep can't pass\nan obstacle, perhaps they can\nswap with someone who can";
+"h242" = "Put Timmy on this teleporter pad\nand swap him with Shaun";
+"h243" = "Climb up here with Shaun\nand swap with Shirley";
+"h244" = "Free Shaun again and\nclimb back here";
+"h245" = "Move Timmy here\nand swap\nwith Shaun";
+"h246" = "Finally, Shaun can\nclimb to the exit";
+
+// Level 35
+"h247" = "Jump into the pink goo\nto transfer to the other portal";
+"h248" = "Some portals\ncan be moved";
+"h249" = "You can push\nthis portal\ndown this gap";
+"h250" = "Did you bring the right sheep\nto fit through this gap?";
+"h251" = "Put Timmy through the portal";
+"h252" = "Get Timmy to push the\nportal through this gap";
+"h253" = "The remaining sheep can\njump through the portal\nto the exit";
+
+// Level 36
+"h254" = "Objects can fall through\nportals as well as sheep";
+"h255" = "The faster something falls into a\nportal, the faster it flies out";
+"h256" = "This button disables\nthe force field";
+"h257" = "Get a sheep to hold\nthis button down";
+"h258" = "Kick the ball into the portal\nand follow it with a sheep!";
+"h259" = "Send the ball back so the\nlast sheep can put it on the button";
+
+// Level 37
+"h260" = "Find out what this\nbutton does";
+"h261" = "Don't forget you can\nmove some portals";
+"h262" = "Timmy can squeeze\nthrough here";
+"h263" = "Get Timmy to push this\nportal through the force field";
+"h264" = "Jump into the portal, then fall\nback into it to be flung out fast";
+"h265" = "Time it just right and you'll\nlaunch at the exit";
+"h266" = "Pause the portal with\nthe button to make it easier";
+"h267" = "Whoever goes last will require timing.\nShaun is the most agile sheep";
+
+// Level 38
+"h268" = "Complicated! Try to figure\nout an overall plan first";
+"h269" = "How are any of the sheep\ngoing to get here?";
+"h270" = "If you can get something\non this teleporter,\na sheep could swap with it";
+"h271" = "The tiny box should fit\nthrough these gaps";
+"h272" = "Swap Shirley up to here\nand push the heavy box";
+"h273" = "Swap Timmy to here and\npush the box down the gap";
+"h275" = "Swap Shaun to here and jump the gap.\nPush the box through to the teleporter pad";
+"h276" = "Once you have a sheep\nhere, use the boxes to\nswap with other sheep";
+
+// Level 39
+"h278" = "Find out what all these buttons do";
+"h279" = "You can get the sheep\nup here with the portal";
+"h280" = "You'll need something more permanent\nthan sheep to hold the buttons down";
+"h281" = "These boxes could hold\nthe buttons down";
+"h282" = "You can move this portal. Just\npush it with someone strong";
+"h283" = "Get Shaun and Timmy out of the way\nand push the portal over here";
+"h284" = "Push these boxes down into the portal one by one.\nTime it so that each one falls on a button.";
+
+// Level 40
+"h285" = "How confusing! No harm\nin experimenting though";
+"h286" = "Follow the wires to see which\nbuttons turn off which force fields";
+"h287" = "Remember space-crates can be\npushed through force fields";
+"h288" = "How is the last sheep going\nto get through this force field?";
+"h289" = "Put Timmy here and\nmove the others through";
+"h289b" = "Put Shaun here";
+"h290" = "Use Shirley to push\nthe box onto this switch";
+"h291" = "Bring Shirley here, and\nTimmy can now move up";
+"h292" = "Put Shirley on this button and\npush the box over to the left with Timmy";
+"h293" = "Put the box on the button instead\nof Shaun. You're done!";
+
+// Level 41
+"h294" = "This isn't getting any easier!\nThe trick here it to think ahead";
+"h295" = "Find out what\nthis button does";
+"h296" = "Stack the sheep under\nthis portal before releasing it.\n Timmy can jump up into it";
+"h297" = "Make steps from\nShaun and Timmy\nto help Shirley up here";
+"h298" = "Don't push the big crate through\ntoo early or you'll block Timmy";
+"h299" = "Get Shaun up here with Timmy's\nhelp before you move the big box";
+"h300" = "Once everyone is over here,\njust teleport to the exit\nusing the small crates";
+"h301" = "Clear off the teleporter pad\nto reset it for the next sheep";
+
+// Level 42
+"h302" = "What a lot of crates!\nHow could they be useful?";
+"h303" = "This portal\ncan be moved";
+"h304" = "Maybe you could stack up\nsome crates over here\nto make some steps";
+"h305" = "Drag crates into the portal and\nthey'll form a pile by the exit";
+"h306" = "Timmy can get at these crates";
+"h307" = "You'll need a sheep stack\nto get Shaun to these";
+"h308" = "Don't forget to put Shirley in\nthis corner before dropping\ncrates this way";
+
+// Level 43
+"h309" = "Welcome to the airlock!\nDon't lose your lunch...";
+"h310" = "This button disables\nthe force field";
+"h311" = "This button opens\nthe exit door";
+"h312" = "Timmy can make his way\nthrough the airlock to here";
+"h313" = "With the force field disabled,\nget Shaun to open the exit door";
+"h314" = "Shirley can make her way\nstraight to the exit";
+"h315" = "Shaun and Timmy can work\ntheir way out of the airlock";
+
+// Level 44
+"h316" = "In space, no-one\ncan hear you bleat!";
+"h318" = "With a bit of a boost,\n Shaun could make it over here";
+"h319" = "The orbiting crate could\ngive Shaun another step up";
+"h320" = "Swap Shaun with another sheep\nand he can go across\nthe asteroids again";
+"h321" = "Did you leave the right\nsheep here to give Shaun\nanother step up?";
+"h322" = "Remember you can swap\nthe box for another sheep";
+
+// Level 45
+"h324b" = "Here's your chance to get home.\nCan you reuse that crashed rocket?";
+"h325b" = "This button starts the rocket.\nOnly the slimmest of sheep\nwill get to it though";
+"h326b" = "This rock is in the way,\nbut Shirley can't\nfit through the\ntunnel to move it";
+"h327b" = "Timmy could fit\nthrough here";
+"h328b" = "Shaun could make it\nover this rock";
+"h329b" = "Get Shaun to help\nShirley over this rock";
+"h320a" = "Put Timmy on this\nteleporter pad";
+"h321a" = "Swap Timmy with Shirley so she\ncan push the rock out of the way";
+"h322a" = "Swap Timmy back into the\ntunnel to go for the button";
+
+// Level 46
+"h323" = "Can you solve this level\nwithout the boat?";
+"h324" = "What if you use Shaun\nand Timmy as floatation aids?";
+
+// Level 47
+"h325" = "A missing button and magnet!\nThere has to be another way to solve it...";
+"h326" = "Shaun can get out\nof the cart here";
+"h327" = "Shirley can push the\ncart while riding in it";
+
+// Level 48
+"h328" = "The bridge is out!\nHow will you get across?";
+"h329" = "TNT can launch sheep\nat tremendous speeds";
+"h330" = "Shaun and Shirley can\nmove these easily";
+"h331" = "Two packs of TNT will ramp\nany sheep over this gap";
+
+// Level 49
+"h332" = "You'll need a way to\npress that switch";
+"h333" = "Maybe this ball could\nget to the switch";
+"h334" = "The ball will need a\nbig kick from the TNT";
+"h335" = "Pile up the TNT to get it\nto push the ball hard";
+"h336" = "Use the lift to help\nstack the TNT";
+
+// Level 50
+"h337" = "This is a much harder version of the\nin-game level. Do you have the skills?";
+"h338" = "Your jump with Shaun will\nhave to be much more precise.";
+"h339" = "One sheep will still have to\njump for their parachute";
+"h340" = "If a sheep already has a parachute,\nthey can push another one around";
+
+// Level 51
+"h341" = "No button inside the crane!\nYou'll have to find another way";
+"h342" = "Timmy will have to get\nonto the beam by himself";
+"h343" = "Timmy can't jump high enough\nif the beam is level";
+"h344" = "Put Shaun and Shirley on\nthe beam, but not in the middle";
+
+// Level 52
+"h345" = "This is the original version of this\npuzzle. People got stuck too often\nunder the pendulum, so it was\nredesigned. Can you beat it?";
+"h346" = "Get the pendulum swinging\nwith someone strong";
+"h347" = "Time it just right and Timmy\ncan race underneath";
+
+// Level 53
+"h348" = "Can you beat this tricky version\nof the palace security puzzle?";
+"h349" = "If you are spotted, you'll have\nto restart the level.";
+"h350" = "It's all in\nthe timing.\nRUUUUN!";
+
+// Level 54
+"h351" = "This level turned out too simple\nto put in the main game,\nbut it's fun anyway. Enjoy!";
+"h352" = "Shaun can kick the ball\nover this slope";
+"h353" = "When the ball finishes its journey,\nteleport to the exit";
+
+// Level 55
+"h354" = "This level was originally built to\ntest out the new teleporters.\nIt's pretty tough. Can you solve it?";
+"h355" = "Only Timmy\ncan squeeze\nthrough here";
+"h356" = "Shaun can climb up here\nif he uses Shirley as a step";
+"h357" = "Remember you can swap\nboxes with sheep";
+
+// Level 56
+"h358" = "This bonus level was too tough\nfor the main game. Can you solve it?";
+"h359" = "Remember, some\nportals can be moved";
+"h360" = "Fall into a portal fast\nto fly out fast";
+
+// Level 57
+"h361" = "This level was too similar to\nothers to include in the main\ngame. Can you solve it though?";
+"h362" = "A sheep stack\nwill get Shaun\nup here";
+"h363" = "Portals can go\nthrough teleporters";
+
+// Level 58
+"h364" = "That button disables\nthe force field";
+"h365" = "Can anyone get\ninto this portal?";
+"h366" = "This portal\ncan be moved";
+"h367" = "Make a sheep stack here and\njump Shaun or Timmy\nup into the portal";
+"h368" = "Push this portal\ndown the slope";
+"h369" = "Shaun and Timmy can\nget into this portal from\nShirley's back";
+"h370" = "Get Timmy to hold down this button,\nthen move Shirley down here";
+
+// Level 59
+"h371" = "Watch out, that force field is\noperated by this button";
+"h372" = "You'll need to hold down this button\nto keep the door open ";
+"h373" = "Shirley can carry a box\nover the force field.\nDon't hang around though!";
+"h374" = "To get the sheep back here,\ntry swapping them for space-crates";
+
+// Level 60
+"h375" = "You'll need to press all four\nof these buttons to escape";
+"h376" = "Timmy can squeeze through here\nbut how will he get back?";
+"h377" = "There are enough boxes\nto teleport back each time";
+"h378" = "The waste chute\nis a good way\nto dispose of\nold boxes";
+"h379" = "Take your time,\nand time your jumps!";
+
+// Level 61
+"h380" = "Surely you're not really stuck!\nJust trying out the hints button? No problem";
+"h381" = "If you really are stuck,\ntry moving all the sheep over here";
+
+// Level 62
+
+// Level 63
+
+// Level 64
+
+
+
+/* Desktop/web only stuff */
+
+// Intro screen
+"hintOptions"         = "OPTIONS";
+"hintQuitGame"        = "QUIT";
+"hintAchievements"    = "ACHIEVEMENTS";
+"hintCheats"          = "CHEATS";
+"MoreGames"           = "MORE\nGAMES";
+
+// Dev panel controls
+"Wipe"                = "WIPE";
+"Close"               = "CLOSE";
+
+// Misc stuff
+"GameTitle"           = "Home Sheep Home 2: A Little Epic";
+"GameUnderground"     = "lost underground";
+"GameLondon"          = "lost in london";
+"GameSpace"           = "lost in space";
+"ShowTitle"           = "Shaun the Sheep";
+"sheepShirley"        = "Shirley";
+"sheepShaun"          = "Shaun";
+"sheepTimmy"          = "Timmy";
+
+// Episode select
+"hintBack"            = "BACK";
+"EpisodeUnderground"  = "UNDERGROUND";
+"EpisodeLondon"       = "LOST IN LONDON";
+"EpisodeSpace"        = "LOST IN SPACE";
+"EpisodeTraining"     = "TRAINING";
+"Find12ToUnlock"      = "Find 12 socks to unlock";
+"Find24ToUnlock"      = "Find 24 socks to unlock";
+
+// Options
+"WipeConfirm"         = "All progress will be erased. Are you sure?";
+"OK"                  = "OK";
+"Cancel"              = "CANCEL";
+"SheepKeys"           = "SHEEP SELECTION KEYS";
+"Quality"             = "QUALITY";
+"Minimum"             = "Minimum";
+"Low"                 = "Low";
+"Medium"              = "Medium";
+"Recommended"         = "Typical";
+"High"                = "Highest";
+"OptPrettier"         = "PRETTIER +";
+"OptFaster"           = "- FASTER";
+"Smaller"             = "- SMALLER";
+"Bigger"              = "BIGGER +";
+"Graphics"            = "GRAPHICS";
+"ScreenSize"          = "SCREEN SIZE";
+"Windowed"            = "RUN IN A WINDOW";
+"SelectionKeys"       = "SELECTION KEYS";
+"UnlockDC"            = "Unlock by finishing\nall three episodes!";
+"RunsFaster"          = "(runs faster)";
+"LooksNicer"          = "(looks nicer)";
+
+// Level select
+"Items"               = "ITEMS";
+"TopScores"           = "TOP SCORES";
+"SubmitScore"         = "SUBMIT SCORE";
+
+// Level title (excluding tips)
+"Out"                 = "out";
+"Of"                  = "of";
+
+// Episode complete
+"EpisodeComplete"     = "episode complete";
+"Continue"            = "CONTINUE";
+
+// Cheats panel
+"Cheats"              = "cheats";
+"All"                 = "ALL";
+"CheatModeOn"         = "cheat mode on";
+"ProgressWontBeSaved" = "Your progress will not be saved!";
+"New"                 = "NEW";
+"X"                   = "x";
+
+// Achievements panel
+"Achievements"        = "achievements";
+
+// In-game
+"hintQuit"            = "QUIT";
+"hintESC"             = "(ESC)";  // Key shortcut
+"hintRetry"           = "RETRY";
+"hintR"               = "(R)";    // Key shortcut
+"hintHints"           = "HINTS";
+"hintH"               = "(H)";    // Key shortcut
+"Hint"                = "HINT";   // Used to say "HINT 5 / 7"
+"Next"                = "NEXT";
+
+// End of game panel
+"NotSavedCheatOn"     = "Not Saved: Cheat Mode Activated"; // Web/Desktop
+"NotSavedBlurb"       = "Cheat modes are just for fun. When you're ready\nto get back to some serious sheep action, turn them off\nand normal service will be resumed!";
+"Faster"              = "faster";
+
+// In-level hints
+"L61a"                = "Meet Shirley, Shaun and Timmy";
+"txtClickASheep"      = "Click a sheep to select it,\nor press it's number on the keyboard"; // Weird name due to iPhone export
+"L61b"                = "Get all sheep to the exit\non the right of the screen";
+"L62a"                = "Shaun jumps highest\nand runs fastest";
+"L62b"                = "Stack sheep to\nget to higher places";
+"L62c"                = "All sheep can jump\nover each other";
+"L63a"                = "Timmy fits through small gaps";
+"L63b"                = "Some buttons have to be held down";
+"L63c"                = "Shirley can push heavy things";
+"L1a"                 = "Stuck?\nGet hints here";
+"L1b"                 = "Get all sheep\nto the sign";
+"L3a"                 = "Shaun and Timmy\ncan swim!";
+"L3b"                 = "Shirley sinks,\nbut won't drown";
+"L16a"                = "Find a way into the van";
+"txtStuck"            = "Stuck?\nGet hints here";
+"L17a"                = "Find a way\nonto the lorry";
+"L30a"                = "Hitch a ride\nhome in the van";
+"L31a"                = "Get the farmer's\nattention by\ndisrupting his\nTV signal";
+"L33a"                = "Force fields only block sheep";
+"L33b"                = "Teleporters swap two items";
+"L34a"                = "Reset a teleporter\nby clearing\neverything off it";
+
+//Mobile specific tips
+"txtTouchASheep" = "Touch a sheep to select it, or press its icon at the top of the screen";
+
+/* Credits */
+
+// Aardman Digital
+"CreditsCode"     = "Code, Game & Level Design";
+"CreditsCU"       = "Chris Underwood";
+
+"CreditsGfx"      = "Graphics, Animation & Levels";
+"CreditsRDa"      = "Robin Davey";
+
+"CreditsProdMgt"  = "Production Management";
+"CreditsJK"       = "Jemma Kamara";
+
+"CreditsCDir"     = "Creative Direction";
+"CreditsDE"       = "Dan Efergan";
+
+"CreditsGfxDes"   = "Interface Graphic Design";
+"CreditsGS"       = "Gavin Strange";
+
+"CreditsIcons"    = "Iconography";
+"CreditsJH"       = "Jenny Hughes";
+
+"CreditsTechDir"  = "Technical Direction";
+"CreditsRD"       = "Richard Davey";
+
+"CreditsUX"       = "User Journey";
+"CreditsAM"       = "Adam Millington";
+
+"CreditsSDir"     = "Sound Direction";
+"CreditsJM"       = "Jake Manion";
+
+"CreditsSProd"    = "Sound Production";
+"CreditsGMI"      = "Gary McIntyre";
+
+"CreditsComp"     = "Composer";
+"CreditsMT"       = "Mark Thomas";
+
+"CreditsPuns"     = "User Testing & Sheepy Puns";
+"CreditsEMKMR"    = "Ellie Mann\nKatie McQuin Roberts";
+
+// Dev commentary unlocked
+
+"CreditsToRead"   = "Find            in levels to read";
+"CreditsUnlocked" = "Developer's\nCommentary unlocked";
+
+// Aardman Shaun the Sheep
+
+"CreditsSTS"      = "Created by";
+"CreditsRG"       = "Starzak (aka Golly)";
+
+"CreditsExecProd" = "Executive Producer";
+"CreditsMB"       = "Miles Bullough";
+
+// Distributor
+
+"CreditsDist1"    = "Distributed by";
+"CreditsDist2"    = "Distribution Partner";
+"CreditsDist3"    = "More distribution stuff";
+"CreditsDist4"    = "Somebody Important";
+
+// Tech
+
+"CreditsBlurb"    = "This game has been created\nwith the fine work of:";  // Box2D original
+"CreditsECBTB"    = "Erin Catto\nBoris The Brave";                         // Box2DFlash
+"CreditsJD"       = "Jack Doyle";                                          // Greensock
+"CreditsCocos"    = "Cocos2D";                                             // iOS only
+"CreditsTexPack"  = "TexturePackerPro";                                    // iOS only
+
+// Advert
+
+"ALittleEpic"	= "Home Sheep Home 2: A Little Epic";
+"BuyGame"	= "Buy Game";
+
+
+// Mobile Pie
+
+"CreditsRW"       = "Richard Wilson";
+"CreditsProjLead" = "Project Lead";
+
+"CreditsND"       = "Nick Dymond";
+"CreditsProdAst"  = "Production Assistant";
+
+"CreditsMA"       = "Matthew Aranha";
+"CreditsProg1"     = "Lead Programmer";
+
+"CreditsTD"       = "Tom Dowding";
+"CreditsProg2"    = "Programmer";
+
+"CreditsQA"       = "Quality Assurance";
+"CreditsDC"       = "David Callaghan";
+"CreditsVK"       = "Valentin Kalchev";
+
+"CreditsThanks"   = "Thanks to";
+"CreditsWLPDDTJP" = "Will Luton\nTom Parry\nDaniel Twomey\nJames Parker";
+
+// Chillingo
+
+"CreditsMobPub"   = "Published by";
+
+// Sponsor
+
+"SponsoredBy"     = "Sponsored by";
+
+// Social links
+// These are bolted together like this:
+// SocialJustBeat LEVELNAME SocialIn TIME SocialInHSH2. RANDOM[SocialCelebration]
+// Eg: I just beat Dome Sheep Dome in 00:16 in Home Sheep Home 2. Flock yeah! http://homesheephome2.com #HSH2
+
+"SocialJustBeat"     = "I just beat";
+"SocialIn"           = "in";
+"SocialInHSH2"       = "in Home Sheep Home 2";
+"SocialCelebration1" = "I rock!";
+"SocialCelebration2" = "I rule!";
+"SocialCelebration3" = "Flock yeah!";
+"SocialCelebration4" = "lolcano!";
+"SocialBeatDev"      = "Faster than the devs!";

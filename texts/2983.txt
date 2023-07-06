@@ -1,0 +1,1 @@
+If the scanner detects a sheep,it'll lock the door and you'll need topress the reset button
